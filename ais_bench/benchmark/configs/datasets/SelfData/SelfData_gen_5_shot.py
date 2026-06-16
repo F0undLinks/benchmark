@@ -16,9 +16,7 @@ A) {A}
 B) {B}
 """.strip()
 
-# 这里是5_shot Temlate，因此不必和Query Template完全一致
-ICE_TEMPLATE = """
-===在这里写Temlate
+# 这里是5_shot Template，因此不必和Query Template完全一致\nICE_TEMPLATE = """\n===在这里写Template
 
 {question}
 
